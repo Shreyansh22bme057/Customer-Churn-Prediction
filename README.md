@@ -5,12 +5,6 @@ This project aims to predict customer churn using machine learning techniques. B
 
 ---
 
-## 📁 Project Structure
-
-
-
----
-
 ## 🧰 Tech Stack
 
 - **Language**: Python  
